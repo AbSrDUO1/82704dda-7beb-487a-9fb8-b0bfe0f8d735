@@ -13,7 +13,7 @@ export default function Home() {
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
           logoSrc="/images/logo.svg"
-          logoAlt="Memesite Futuristic SaaS"
+          logoAlt="Memesite"
           buttonText="Start Free Trial"
         />
       </div>
